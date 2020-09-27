@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Evernote_clone</string>
+    <string name="openNav">Navigation Drawer open</string>
+    <string name="closeNav">Navigation Drawer close</string>
+</resources>

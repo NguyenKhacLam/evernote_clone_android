@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Note">
+        <menu>
+            <item
+                android:id="@+id/navAllNote"
+                android:icon="@drawable/ic_baseline_notes_24"
+                android:title="All notes"/>
+            <item
+                android:id="@+id/navNoteBook"
+                android:icon="@drawable/ic_baseline_notes_24"
+                android:title="Notebook"/>
+            <item
+                android:id="@+id/navTrash"
+                android:icon="@drawable/ic_baseline_notes_24"
+                android:title="Trash"/>
+        </menu>
+    </item>
+    <item android:title="App">
+        <menu>
+            <item
+                android:id="@+id/navSettings"
+                android:icon="@drawable/ic_baseline_notes_24"
+                android:title="Settinsgs"/>
+            <item
+                android:id="@+id/navDarkTheme"
+                android:icon="@drawable/ic_baseline_notes_24"
+                android:title="Dark Theme"/>
+        </menu>
+    </item>
+</menu>
